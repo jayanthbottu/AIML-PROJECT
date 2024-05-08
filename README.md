@@ -60,7 +60,7 @@ Run the main.py file using the following command:
 
 The attendance management system window will open, and you can start using the system.
 
-### **Usage**
+### **Usage: **
 
 ### To use the attendance management system, follow these steps:
 
