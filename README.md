@@ -11,7 +11,7 @@ To run this project, you need to have the following prerequisites installed:
 
 **OpenCV:** You can install OpenCV using pip by running the following command in your terminal or command prompt:
 
-'''pip install opencv-python'''
+```pip install opencv-python```
 
 **Tkinter:** Tkinter is included in the standard Python library, so you don't need to install it separately.
 
