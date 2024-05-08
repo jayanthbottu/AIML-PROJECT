@@ -13,17 +13,23 @@ Download and Binary Install The Dlib into Your pc using [DLIB File](https://gith
 
 **OpenCV:** You can install OpenCV using pip by running the following command in your terminal or command prompt:
 
-```pip install opencv-python```
+```
+pip install opencv-python
+```
 
 **Tkinter:** Tkinter is included in the standard Python library, so you don't need to install it separately.
 
 **Pandas**: You can install Pandas using pip by running the following command in your terminal or command prompt:
 
-``` pip install pandas```
+``` 
+pip install pandas
+```
 
 **Numpy**: You can install Numpy using pip by running the following command in your terminal or command prompt:
 
-``` pip install numpy```
+``` 
+pip install numpy
+```
 
 Similarly, Install Remaining Modules:
 
@@ -54,7 +60,7 @@ Run the main.py file using the following command:
 
 The attendance management system window will open, and you can start using the system.
 
-``` **Usage**```
+### **Usage**
 
 ### To use the attendance management system, follow these steps:
 
