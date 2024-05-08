@@ -1,4 +1,4 @@
-# AIML-PROJECT
+# AIML GROUP PROJECT 
 ## **Face Recognition Based Attendance Management System**
 
 This project is an attendance management system that uses face recognition to mark the attendance of individuals. The system is built using Python and OpenCV, and it uses a Haar Cascade classifier for face detection and a Local Binary Patterns Histograms (LBPH) algorithm for face recognition.
@@ -17,11 +17,11 @@ To run this project, you need to have the following prerequisites installed:
 
 **Pandas**: You can install Pandas using pip by running the following command in your terminal or command prompt:
 
-> pip install pandas
+``` pip install pandas```
 
 **Numpy**: You can install Numpy using pip by running the following command in your terminal or command prompt:
 
-> pip install numpy
+``` pip install numpy```
 
 ## **Running the Project**
 To run the project, follow these steps:
@@ -30,11 +30,11 @@ After Installing Every Module.....
 
 Run the main.py file using the following command:
 
-> python main.py
+```python main.py```
 
 The attendance management system window will open, and you can start using the system.
 
-> **Usage**
+``` **Usage**```
 
 To use the attendance management system, follow these steps:
 
@@ -52,20 +52,20 @@ When the camera pops up and identifies the individual, click the space key to ta
 
 The attendance will be marked in the "Attendance.csv" file.
 
-> **License**
+### **License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-> **Acknowledgments**
+### **Acknowledgments**
 
 - OpenCV
 
-Tkinter
+- Tkinter
 
-Pandas
+- Pandas
 
-Numpy
+- Numpy
 
-Haar Cascade Classifier
+- Haar Cascade Classifier
 
-Local Binary Patterns Histograms (LBPH)
+- Local Binary Patterns Histograms (LBPH)
