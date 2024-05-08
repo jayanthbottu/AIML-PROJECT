@@ -36,21 +36,21 @@ The attendance management system window will open, and you can start using the s
 
 ``` **Usage**```
 
-To use the attendance management system, follow these steps:
+### To use the attendance management system, follow these steps:
 
-Enter the application by clicking on the "Enter Application" button.
+1. Enter the application by clicking on the "Enter Application" button.
 
-Enter the ID and name of the individual in the respective fields.
+2. Enter the ID and name of the individual in the respective fields.
 
-Click on the "Take Images" button to capture images of the individual.
+3. Click on the "Take Images" button to capture images of the individual.
 
-Click on the "Save Profile" button to save the profile of the individual.
+4. Click on the "Save Profile" button to save the profile of the individual.
 
-Click on the "Take Attendance" button to start taking attendance.
+5. Click on the "Take Attendance" button to start taking attendance.
 
-When the camera pops up and identifies the individual, click the space key to take attendance.
+6. When the camera pops up and identifies the individual, click the space key to take attendance.
 
-The attendance will be marked in the "Attendance.csv" file.
+7. The attendance will be marked in the "Attendance.csv" file.
 
 ### **License**
 
