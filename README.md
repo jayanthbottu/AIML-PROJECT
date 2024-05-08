@@ -3,23 +3,23 @@
 
 This project is an attendance management system that uses face recognition to mark the attendance of individuals. The system is built using Python and OpenCV, and it uses a Haar Cascade classifier for face detection and a Local Binary Patterns Histograms (LBPH) algorithm for face recognition.
 
-Prerequisites:
+**Prerequisites:**
 
 To run this project, you need to have the following prerequisites installed:
 
-Python 3.8: You can download Python from the official website: https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
+**Python 3.8:** You can download Python from the official website: https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
 
-OpenCV: You can install OpenCV using pip by running the following command in your terminal or command prompt:
+**OpenCV:** You can install OpenCV using pip by running the following command in your terminal or command prompt:
 
 pip install opencv-python
 
-Tkinter: Tkinter is included in the standard Python library, so you don't need to install it separately.
+**Tkinter:** Tkinter is included in the standard Python library, so you don't need to install it separately.
 
-Pandas: You can install Pandas using pip by running the following command in your terminal or command prompt:
+**Pandas**: You can install Pandas using pip by running the following command in your terminal or command prompt:
 
 pip install pandas
 
-Numpy: You can install Numpy using pip by running the following command in your terminal or command prompt:
+**Numpy**: You can install Numpy using pip by running the following command in your terminal or command prompt:
 
 pip install numpy
 
@@ -34,7 +34,8 @@ python main.py
 
 The attendance management system window will open, and you can start using the system.
 
-**Usage**
+> **Usage**
+
 To use the attendance management system, follow these steps:
 
 Enter the application by clicking on the "Enter Application" button.
