@@ -1,8 +1,8 @@
 # AIML-PROJECT
-**Face Recognition Based Attendance Management System**
+#**Face Recognition Based Attendance Management System**
 This project is an attendance management system that uses face recognition to mark the attendance of individuals. The system is built using Python and OpenCV, and it uses a Haar Cascade classifier for face detection and a Local Binary Patterns Histograms (LBPH) algorithm for face recognition.
 
-Prerequisites
+Prerequisites:
 To run this project, you need to have the following prerequisites installed:
 
 Python 3.x: You can download Python from the official website: https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
