@@ -7,6 +7,8 @@ This project is an attendance management system that uses face recognition to ma
 
 To run this project, you need to have the following prerequisites installed:
 
+Download and Binary Install The Dlib into Your pc using [DLIB File] (https://github.com/2303A51LA7/AIML-PROJECT/blob/b5460638eec18e0917244c78f36539e0dcddf432/DLib%20Binary%20File.whl)
+
 **Python 3.8:** You can download Python from the official website: https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
 
 **OpenCV:** You can install OpenCV using pip by running the following command in your terminal or command prompt:
