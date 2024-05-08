@@ -25,6 +25,24 @@ Download and Binary Install The Dlib into Your pc using [DLIB File](https://gith
 
 ``` pip install numpy```
 
+Similarly, Install Remaining Modules:
+
+```
+pip install tk-tools
+
+pip install opencv-contrib-python
+
+pip install datetime
+
+pip install pytest-shutil
+
+pip install python-csv
+
+pip install pillow 
+
+pip install times
+
+```
 ## **Running the Project**
 To run the project, follow these steps:
 
