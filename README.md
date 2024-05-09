@@ -64,7 +64,7 @@ python main.py
 
 The attendance management system window will open, and you can start using the system.
 
-### **Usage: **
+### **Usage:**
 
 ### To use the attendance management system, follow these steps:
 
